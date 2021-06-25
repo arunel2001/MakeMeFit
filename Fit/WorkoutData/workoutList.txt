@@ -1,0 +1,6 @@
+Dumbellpress,3.0
+squad,4.65
+barbellpress,3.2
+pushups,150.0
+curls,41.666666666666664
+benchpress,50.0
