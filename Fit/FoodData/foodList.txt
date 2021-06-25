@@ -1,0 +1,14 @@
+1,Idli,200.0
+2,Dosa,50.0
+3,Chicken Fry,266.6
+4,Mutton,200.0
+5,Fish,250.0
+6,Bread,125.0
+7,Rice,6.0
+8,Egg,50.0
+9,Noodles,138.0
+10,Potato,25.0
+11,Beetroot,34.0
+12,Mango,46.0
+13,sambar rice,1.08
+14,pasta,0.8
